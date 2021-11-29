@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BAEYUNSEON
-- 👀 I’m interested in ...
+- 👀 I’m interested in java, springboot, jpa, golang, kubernetes
 - 🌱 I’m currently learning java, springboot, jpa, golang, kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (project0120@gmail.com)

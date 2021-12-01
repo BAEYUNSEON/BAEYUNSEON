@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BAEYUNSEON
+- 👋 Hi, I’m @baeyunseon
 - 👀 I’m interested in java, springboot, jpa, golang, kubernetes
 - 🌱 I’m currently learning java, springboot, jpa, golang, kubernetes
 - 💞️ I’m looking to collaborate on ...
